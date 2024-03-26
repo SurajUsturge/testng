@@ -1,0 +1,4 @@
+# Created at 2023-09-08T23:45:38.762
+Boot Manifest-JAR contains absolute paths in classpath 'E:\sdet+\SEED COURSE\selenium automation testing\automation program revision\Run_multiple_testng_class_as_maven_tset\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
